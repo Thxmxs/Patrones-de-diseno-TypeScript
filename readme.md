@@ -15,17 +15,19 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 ### Creacionales
 
 1. **Factory Method**
-    - Ubicación: [`Creacionales/FactoryMethod`](./Creacionales/FactoryMethod/FactoryMethod.md)
+    - Información y código: [`Creacionales/FactoryMethod`](./Creacionales/FactoryMethod/FactoryMethod.md)
 
-   - **Cómo Ejecutar**:
-     ```bash
-     # Navegar a la carpeta del patrón
-     cd Creacionales
-     
-     # Ejecutar el código (asegúrate de tener TypeScript instalado)
-     npx tsx FactoryMethod.ts
-     ```
+2. **Abstract Factory**
+    - Información y código: [`Creacionales/AbstractFactory`](./Creacionales/AbstractFactory/AbstractFactory.md)
 
+**Ejecutar codigo**
+ ```bash
+ # Navegar a la carpeta del patrón
+ cd directorio
+ 
+ # Ejecutar el código (asegúrate de tener TypeScript instalado)
+ npx tsx archivo.ts
+ ```
 
 ## Requisitos
 
