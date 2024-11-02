@@ -23,6 +23,9 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 3. **Prototype**
     - Información y código: [`Creacionales/Prototype`](./Creacionales/Prototype/Prototype.md)
 
+3. **Builder**
+    - Información y código: [`Creacionales/Builder`](./Creacionales/Builder/Builder.md)
+
 **Ejecutar codigo**
  ```bash
  # Navegar a la carpeta del patrón

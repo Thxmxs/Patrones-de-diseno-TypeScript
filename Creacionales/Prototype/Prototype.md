@@ -2,7 +2,7 @@
    
 Prototype es un patron de diseño creacional que nos permite copiar objetos existentes sin que el codigo dependa de sus clases.
 
-Es útil cuando se necesita crear nuevas instancias de objetos que son muy similares o iguales a instancias existentes y cuando el proceso de creación de dichos objetos es costoso o complicado. Este patrón permite clonar objetos en lugar de crearlos desde cero, lo que puede mejorar el rendimiento y simplificar el código en situaciones específicas. En resumen, el patrón Prototype soluciona estos problemas:
+Es útil cuando se necesita crear nuevas instancias de objetos que son muy similares o iguales a instancias existentes y cuando el proceso de creación de dichos objetos es costoso o complicado. Este patrón permite clonar objetos en lugar de crearlos desde cero, lo que puede mejorar el rendimiento y simplificar el código en situaciones específicas.
 
 ### ¿Por qué usar el patrón prototype?
 
