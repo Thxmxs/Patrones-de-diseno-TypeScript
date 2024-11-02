@@ -20,6 +20,9 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 2. **Abstract Factory**
     - Información y código: [`Creacionales/AbstractFactory`](./Creacionales/AbstractFactory/AbstractFactory.md)
 
+3. **Prototype**
+    - Información y código: [`Creacionales/Prototype`](./Creacionales/Prototype/Prototype.md)
+
 **Ejecutar codigo**
  ```bash
  # Navegar a la carpeta del patrón
