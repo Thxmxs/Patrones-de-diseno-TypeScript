@@ -14,4 +14,4 @@ El patrón Builder es un patrón de diseño creacional que se usa para construir
 
 Un ejemplo seria por ejemplo la creación de un computador donde tiene multiples piezas que se pueden personalizar para distintos tipos de usos segun sus piezas;
 
-![Diagrama de clases Factory method](../../assets/Builder.jpg)
+![Diagrama de clases Builder](../../assets/Builder.jpg)

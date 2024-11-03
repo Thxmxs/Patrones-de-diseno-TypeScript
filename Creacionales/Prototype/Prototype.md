@@ -16,4 +16,4 @@ Es útil cuando se necesita crear nuevas instancias de objetos que son muy simil
 
 Un ejemplo típico de uso del patrón Prototype es en programas gráficos o videojuegos, donde se crean múltiples instancias de personajes, objetos, o escenarios con configuraciones similares, pero personalizadas para cada instancia.
 
-![Diagrama de clases Factory method](../../assets/PrototypePattern.PNG)
+![Diagrama de clases Prototype](../../assets/PrototypePattern.PNG)

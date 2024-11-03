@@ -26,6 +26,9 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 3. **Builder**
     - Información y código: [`Creacionales/Builder`](./Creacionales/Builder/Builder.md)
 
+3. **Singleton**
+    - Información y código: [`Creacionales/Singleton`](./Creacionales/Singleton/Singleton.md)
+
 **Ejecutar codigo**
  ```bash
  # Navegar a la carpeta del patrón
