@@ -64,9 +64,30 @@ class GameboyItemFactory implements AbstractFactory{
 
 class NintendoDSItemFactory implements AbstractFactory{
     createMoneda(): Moneda {
-        return new GameboyMoneda()
+        return new NintendoDSMoneda()
     }
     createBloqueInterrogante(): BloqueInterrogante {
-        return new GameboyBloqueInterrogante()
+        return new NintendoDSBloqueInterrogante()
     }
 }
+
+function generarEntornoDeJuego(factory: AbstractFactory) {
+    const moneda = factory.createMoneda();
+    const bloque = factory.createBloqueInterrogante();
+
+    moneda.spawnItem();        
+    moneda.render();          
+
+    bloque.spawnItem();        
+    bloque.render();          
+}
+
+function main(){
+    const gameboyFactory = new GameboyItemFactory();
+    generarEntornoDeJuego(gameboyFactory);
+
+    const nintendoDSFactory = new NintendoDSItemFactory();
+    generarEntornoDeJuego(nintendoDSFactory);
+}
+
+main();
