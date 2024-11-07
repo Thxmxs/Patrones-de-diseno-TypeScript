@@ -52,7 +52,7 @@ class NintendoDSBloqueInterrogante implements BloqueInterrogante {
     }
 }
 
-//factories ded creacion
+//fabricas de creacion
 class GameboyItemFactory implements AbstractFactory{
     createMoneda(): Moneda {
         return new GameboyMoneda()
