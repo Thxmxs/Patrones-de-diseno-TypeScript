@@ -26,4 +26,4 @@ El patrón Decorator nos permite extender funcionalidades de una clase de forma 
 Ejemplo:
 Imagina que tienes una clase base llamada Bebida caliente que representa una bebida básica como café o té. Luego, en lugar de crear subclases para cada posible combinación de bebidas (como "café con leche", "té con miel y limón", etc.), puedes usar el patrón Decorator para agregar personalizaciones adicionales de forma flexible. Aquí está cómo podría funcionar:
 
-![Diagrama de clases Decorator](../../assets/DecoratorPattern.jpg.jpg)
+![Diagrama de clases Decorator](../../assets/DecoratorPattern.jpg)
