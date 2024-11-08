@@ -14,20 +14,19 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 ### Creacionales
 
-1. **Factory Method**
-    - Información y código: [`Creacionales/FactoryMethod`](./Creacionales/FactoryMethod/FactoryMethod.md)
+1. **Factory Method**   [`Creacionales/FactoryMethod`](./Creacionales/FactoryMethod/FactoryMethod.md)
 
-2. **Abstract Factory**
-    - Información y código: [`Creacionales/AbstractFactory`](./Creacionales/AbstractFactory/AbstractFactory.md)
+2. **Abstract Factory** [`Creacionales/AbstractFactory`](./Creacionales/AbstractFactory/AbstractFactory.md)
 
-3. **Prototype**
-    - Información y código: [`Creacionales/Prototype`](./Creacionales/Prototype/Prototype.md)
+3. **Prototype**        [`Creacionales/Prototype`](./Creacionales/Prototype/Prototype.md)
 
-3. **Builder**
-    - Información y código: [`Creacionales/Builder`](./Creacionales/Builder/Builder.md)
+3. **Builder**          [`Creacionales/Builder`](./Creacionales/Builder/Builder.md)
 
-3. **Singleton**
-    - Información y código: [`Creacionales/Singleton`](./Creacionales/Singleton/Singleton.md)
+3. **Singleton**        [`Creacionales/Singleton`](./Creacionales/Singleton/Singleton.md)
+
+### Estructurales
+
+1. **Decorator**        [`Estructurales/Decorator`](./Estructurales/Decorator/Decorator.md)
 
 **Ejecutar codigo**
  ```bash
