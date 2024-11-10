@@ -25,7 +25,7 @@ abstract class BebidaDecorator implements IBebida{
     }
 
     obtenerCosto(): number {
-        return this.obtenerCosto()
+        return this.bebida.obtenerCosto()
     }
     obtenerDescripcion(): string {
         return this.bebida.obtenerDescripcion()

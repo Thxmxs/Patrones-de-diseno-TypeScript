@@ -20,13 +20,15 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 3. **Prototype**        [`Creacionales/Prototype`](./Creacionales/Prototype/Prototype.md)
 
-3. **Builder**          [`Creacionales/Builder`](./Creacionales/Builder/Builder.md)
+4. **Builder**          [`Creacionales/Builder`](./Creacionales/Builder/Builder.md)
 
-3. **Singleton**        [`Creacionales/Singleton`](./Creacionales/Singleton/Singleton.md)
+5. **Singleton**        [`Creacionales/Singleton`](./Creacionales/Singleton/Singleton.md)
 
 ### Estructurales
 
 1. **Decorator**        [`Estructurales/Decorator`](./Estructurales/Decorator/Decorator.md)
+
+2. **Bridge**           [`Estructurales/Bridge`](./Estructurales/Bridge/Bridge.md)
 
 **Ejecutar codigo**
  ```bash
