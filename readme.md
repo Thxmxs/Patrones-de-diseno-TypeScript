@@ -30,6 +30,8 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 2. **Bridge**           [`Estructurales/Bridge`](./Estructurales/Bridge/Bridge.md)
 
+3. **Composite**           [`Estructurales/Composite`](./Estructurales/Composite/Composite.md)
+
 **Ejecutar codigo**
  ```bash
  # Navegar a la carpeta del patrón

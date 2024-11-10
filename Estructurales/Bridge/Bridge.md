@@ -23,7 +23,7 @@ El patrón de diseño Bridge (o Puente) es un patrón estructural que tiene como
 
 - Desacoplamiento: Permite que la abstracción y la implementación evolucionen de forma independiente
 
-- educción de Subclases: Evita la explosión de subclases al combinar jerarquías en un sistema
+- Reducción de Subclases: Evita la explosión de subclases al combinar jerarquías en un sistema
 
 - Mayor Flexibilidad: Puedes añadir nuevas implementaciones y abstracciones sin modificar el código existente
 
