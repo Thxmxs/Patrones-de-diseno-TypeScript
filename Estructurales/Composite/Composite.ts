@@ -44,5 +44,4 @@ carpeta.agregar(subCarpeta);
 // Mostrar la estructura completa
 carpeta.mostrar();
 
-console.log(carpeta.mostrar)
 
