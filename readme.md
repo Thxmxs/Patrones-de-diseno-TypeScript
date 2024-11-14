@@ -30,7 +30,9 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 2. **Bridge**           [`Estructurales/Bridge`](./Estructurales/Bridge/Bridge.md)
 
-3. **Composite**           [`Estructurales/Composite`](./Estructurales/Composite/Composite.md)
+3. **Composite**        [`Estructurales/Composite`](./Estructurales/Composite/Composite.md)
+
+4. **Facade**           [`Estructurales/Facade`](./Estructurales/Facade/Facade.md)
 
 **Ejecutar codigo**
  ```bash
