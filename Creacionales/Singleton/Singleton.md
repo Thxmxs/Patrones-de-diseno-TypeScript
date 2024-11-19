@@ -18,5 +18,8 @@ El patrón Singleton es un patrón de diseño que asegura que solo haya una úni
 
 - Dificultad para pruebas: Puede ser más difícil de probar, porque una vez que creas la instancia, es complicado reiniciar su estado o reemplazarla en pruebas.
 
+### Ejemplo
+
+**Codigo** [`Singleton`](./Singleton.ts)
 
 ![Diagrama de clases Singleton](../../assets/Singleton.jpg)

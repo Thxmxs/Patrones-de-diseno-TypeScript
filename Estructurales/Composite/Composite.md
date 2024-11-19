@@ -30,5 +30,8 @@ Basicamente se trata de establecer una jerarquia en forma de arbol, donde cada e
 
 - Puede hacer más compleja la implementación si hay reglas de validación específicas o restricciones sobre cómo se pueden combinar los objetos.
 
+### Ejemplo
+
+**Codigo** [`Composite`](./Composite.ts)
 
 ![Diagrama de clases Composite](../../assets/CompositePattern.jpg)

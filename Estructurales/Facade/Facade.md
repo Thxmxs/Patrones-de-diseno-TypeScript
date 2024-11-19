@@ -23,6 +23,8 @@ El patrón Facade es útil cuando un sistema tiene múltiples partes interdepend
 - Organización: Ayuda a organizar el sistema, creando una capa de abstracción sobre el subsistema.
 
 ### Ejemplo
-Imagina que tienes un sistema para gestionar multimedia (audio, video, subtítulos, etc.) y que cada elemento requiere su configuración y manejo. En lugar de que el cliente tenga que interactuar con el sistema de audio, video y subtítulos por separado, puedes crear una clase MediaFacade que tenga métodos como play(), pause(), o stop(), que internamente llaman y coordinan a las clases individuales de audio, video y subtítulos.
+Imagina que tienes un sistema para gestionar una casa inteligete y que cada elemento requiere su configuración y manejo. En lugar de que el cliente tenga que interactuar con el sistema por separado, puedes crear una clase centralizada que tenga métodos como play(), pause(), o stop(), que internamente llaman y coordinan a las clases individuales de audio, video y subtítulos.
 
-![Diagrama de clases Decorator](../../assets/FacadePattern.jpg)
+**Codigo** [`Facade`](./Facade.ts)
+
+![Diagrama de clases Facade](../../assets/FacadePattern.jpg)

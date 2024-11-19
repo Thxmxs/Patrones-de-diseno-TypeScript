@@ -33,4 +33,8 @@ El patrón de diseño Bridge (o Puente) es un patrón estructural que tiene como
 
 - Dependencia en la Abstracción: Al depender de la abstracción para hacer el puente, hay que diseñarla adecuadamente para que soporte futuras implementaciones
 
+### Ejemplo
+
+**Codigo** [`Bridge`](./Bridge.ts)
+
 ![Diagrama de clases Bridge](../../assets/BridgePattern.jpg)

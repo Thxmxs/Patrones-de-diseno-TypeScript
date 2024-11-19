@@ -21,4 +21,8 @@ Cada vez que quieras añadir un nuevo tipo de componente (por ejemplo, un menú)
 
 - Facilidad para Expandir y Mantener el Código: Agregar una nueva "familia" o grupo de objetos es sencillo; solo tienes que implementar una nueva fábrica sin alterar el código de los clientes. Esto es mucho más eficiente que actualizar múltiples métodos o clases cada vez que se necesita una nueva variante.
 
+### Ejemplo
+
+**Codigo** [`AbstractFactory`](./AbstractFactory.ts)
+
 ![Diagrama de clases Abstract factory](../../assets/AbstractFactory.jpg)

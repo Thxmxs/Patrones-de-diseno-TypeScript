@@ -12,4 +12,8 @@ El patrón Factory es un patrón de diseño creacional que proporciona una forma
 
 - Control sobre la creación de objetos: Si la creación de ciertos objetos requiere lógica adicional, como configurar estados o inicializar parámetros, la fábrica encapsula estos pasos.
 
+### Ejemplo
+
+**Codigo** [`FactoryMethod`](./FactoryMethod.ts)
+
 ![Diagrama de clases Factory method](../../assets/FactoryMethodClassDiagram.jpg)
