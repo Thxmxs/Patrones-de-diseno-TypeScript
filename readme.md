@@ -34,7 +34,9 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 4. **Facade**           [`Estructurales/Facade`](./Estructurales/Facade/Facade.md)
 
-4. **Proxy**            [`Estructurales/Proxy`](./Estructurales/Proxy/Proxy.md)
+5. **Proxy**            [`Estructurales/Proxy`](./Estructurales/Proxy/Proxy.md)
+
+6. **Adapter**          [`Estructurales/Adapter`](./Estructurales/Adapter/Adapter.md)
 
 **Ejecutar codigo**
  ```bash
