@@ -38,7 +38,7 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 6. **Adapter**          [`Estructurales/Adapter`](./Estructurales/Adapter/Adapter.md)
 
-7. **Adapter**          [`Estructurales/Flyweight`](./Estructurales/Flyweight/Flyweight.mds)
+7. **Flyweight**        [`Estructurales/Flyweight`](./Estructurales/Flyweight/Flyweight.mds)
 
 **Ejecutar codigo**
  ```bash
