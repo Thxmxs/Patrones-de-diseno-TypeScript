@@ -1,4 +1,4 @@
-# Design Patterns en TypeScript
+# Patrones de diseño en TypeScript
 
 Este repositorio contiene implementaciones de patrones de diseño utilizando TypeScript. Está organizado en tres categorías principales según el tipo de patrón: **Comportamiento**, **Creacionales** y **Estructurales**. El objetivo es proporcionar ejemplos claros y bien documentados de cada patrón para facilitar su comprensión y aplicación en proyectos TypeScript.
 
@@ -37,6 +37,8 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 5. **Proxy**            [`Estructurales/Proxy`](./Estructurales/Proxy/Proxy.md)
 
 6. **Adapter**          [`Estructurales/Adapter`](./Estructurales/Adapter/Adapter.md)
+
+7. **Adapter**          [`Estructurales/Flyweight`](./Estructurales/Flyweight/Flyweight.mds)
 
 **Ejecutar codigo**
  ```bash
