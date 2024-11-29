@@ -40,6 +40,10 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 7. **Flyweight**        [`Estructurales/Flyweight`](./Estructurales/Flyweight/Flyweight.md)
 
+### Comportemiento
+
+1. **Strategy**        [`Comportamiento/Strategy`](./Comportamiento/Strategy/Strategy.md)
+
 **Ejecutar codigo**
  ```bash
  # Navegar a la carpeta del patrón
