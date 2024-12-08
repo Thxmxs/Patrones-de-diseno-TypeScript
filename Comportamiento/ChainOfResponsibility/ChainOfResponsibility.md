@@ -5,13 +5,7 @@ Al recibir una solicitud, cada manejador decide si procesar la solicitud o pasar
 
 ### Proposito
 
-Este patrón es ideal para aplicaciones donde un cambio en el estado de un objeto necesita reflejarse automáticamente en otros objetos relacionados.
-
-Por ejemplo:
-
-- Un sistema de notificaciones.
-
-- Actualización de la interfaz gráfica cuando cambian datos subyacentes.
+El propósito principal del patrón Chain of Responsibility (Cadena de Responsabilidad) es desacoplar al emisor de una solicitud de su(s) receptor(es), permitiendo que la solicitud pase por una cadena de manejadores hasta que alguno de ellos la procese.
 
 ### Estructura
 
@@ -27,11 +21,6 @@ Por ejemplo:
 
 - Reduce el acoplamiento entre el emisor y los receptores de una solicitud.
 
-- Actualizaciones automáticas: Cuando el estado del sujeto cambia, todos los observadores relevantes se actualizan automáticamente, lo que reduce errores manuales.
-
-- Promueve el principio de diseño de "Open/Closed": El patrón permite que el sujeto esté abierto para extensiones (añadir observadores) pero cerrado para modificaciones.
-
-- Flexibilidad en la cantidad de observadores: Se pueden registrar múltiples observadores dinámicamente en tiempo de ejecución.
 
 ### Desventajas
 
