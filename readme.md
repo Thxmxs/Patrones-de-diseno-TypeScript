@@ -42,11 +42,13 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 ### Comportemiento
 
-1. **Strategy**        [`Comportamiento/Strategy`](./Comportamiento/Strategy/Strategy.md)
+1. **Strategy**                 [`Comportamiento/Strategy`](./Comportamiento/Strategy/Strategy.md)
 
-2. **Observer**        [`Comportamiento/Observer`](./Comportamiento/Observer/Observer.md)
+2. **Observer**                 [`Comportamiento/Observer`](./Comportamiento/Observer/Observer.md)
 
-3. **TemplateMethod**        [`Comportamiento/TemplateMethod`](./Comportamiento/TemplateMethod/TemplateMethod.md)
+3. **TemplateMethod**           [`Comportamiento/TemplateMethod`](./Comportamiento/TemplateMethod/TemplateMethod.md)
+
+4. **Chain of responsability**  [`Comportamiento/ChainOfResponsibility`](./Comportamiento/ChainOfResponsibility/ChainOfResponsibility.md)
 
 **Ejecutar codigo**
  ```bash
