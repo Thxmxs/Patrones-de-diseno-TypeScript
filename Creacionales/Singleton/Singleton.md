@@ -1,4 +1,4 @@
-# Builder
+# Singleton
    
 El patrón Singleton es un patrón de diseño que asegura que solo haya una única instancia de una clase en toda la aplicación. Además, proporciona un punto de acceso global para obtener esa instancia.
 

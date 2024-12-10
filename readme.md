@@ -50,6 +50,8 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 4. **Chain of responsability**  [`Comportamiento/ChainOfResponsibility`](./Comportamiento/ChainOfResponsibility/ChainOfResponsibility.md)
 
+5. **Command**  [`Comportamiento/Command`](./Comportamiento/Command/Command.md)
+
 **Ejecutar codigo**
  ```bash
  # Navegar a la carpeta del patrón
