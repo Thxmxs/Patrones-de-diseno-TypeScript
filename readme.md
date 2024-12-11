@@ -2,6 +2,8 @@
 
 Este repositorio contiene implementaciones de patrones de diseño utilizando TypeScript. Está organizado en tres categorías principales según el tipo de patrón: **Comportamiento**, **Creacionales** y **Estructurales**. El objetivo es proporcionar ejemplos claros y bien documentados de cada patrón para facilitar su comprensión y aplicación en proyectos TypeScript.
 
+![PatronesDeDisenio](/assets/DesignPatterns.jpg)
+
 ## Estructura del Proyecto
 
 Actualmente, el repositorio está organizado en las siguientes carpetas:
