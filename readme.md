@@ -52,6 +52,8 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 5. **Command**  [`Comportamiento/Command`](./Comportamiento/Command/Command.md)
 
+6. **Iterator**  [`Comportamiento/Iterator`](./Comportamiento/Iterator/Iterator.md)
+
 **Ejecutar codigo**
  ```bash
  # Navegar a la carpeta del patrón
