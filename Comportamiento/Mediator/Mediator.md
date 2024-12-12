@@ -1,8 +1,26 @@
 # Mediator
    
-Es un patron de diseño que define un objeto, el mediador, para centralizar la comunicacion entre varios componentes u objetos en un sistema. Esto desacopla las clases al evitar interacciones directas entre objetos/componentes, haciendo que se comuniquen a traves de el mediator lo que facilita la mantenibilidad y flexibilidad en la arquitectura del sistema.
+Es un patron de diseño que define un objeto, el mediador, para centralizar la comunicacion entre varios componentes u objetos en un sistema. Esto desacopla las clases al evitar interacciones directas entre objetos/componentes, haciendo que se comuniquen a traves de el mediator lo que facilita la mantenibilidad y flexibilidad en la arquitectura del sistema
 
-Por lo que Su objetivo principal es facilitar la comunicación entre objetos que de otra manera estarían fuertemente acoplados.
+El patron mediator permite:
+
+- Encapsular la lógica de comunicación en un solo lugar
+
+- Desarrollar componentes más independientes y autónomos
+
+- Facilitar la integración de nuevos componentes o funcionalidades
+
+- Mejorar la gestión de errores y excepciones
+
+Es especialmente util en sistemas con:
+
+- Muchos objetos interconectados
+
+- Comunicaciones complejas entre componentes
+
+- Requisitos de escalabilidad y flexibilidad
+
+- Necesidad de reducir el acoplamiento entre objetos
 
 ### Componentes
 
