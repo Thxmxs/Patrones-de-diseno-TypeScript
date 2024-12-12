@@ -56,6 +56,9 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 6. **Iterator**  [`Comportamiento/Iterator`](./Comportamiento/Iterator/Iterator.md)
 
+7. **Mediator**  [`Comportamiento/Mediator`](./Comportamiento/Mediator/Mediator.md)
+
+
 **Ejecutar codigo**
  ```bash
  # Navegar a la carpeta del patrón

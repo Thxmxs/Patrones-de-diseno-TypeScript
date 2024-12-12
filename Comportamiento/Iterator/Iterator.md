@@ -28,4 +28,4 @@ implementacion de un ejemplo simple donde recorremos una pila que almacena numer
 
 **Codigo** [`Iterator`](./Iterator.ts)
 
-![Diagrama de clases Command](../../assets/Iterator.jpg)
+![Diagrama de clases Iterator](../../assets/Iterator.jpg)
