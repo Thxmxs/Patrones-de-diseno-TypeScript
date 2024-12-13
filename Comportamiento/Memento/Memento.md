@@ -1,4 +1,4 @@
-# Mediator
+# Memento
    
 El patrón de diseño Memento es un patrón de comportamiento que permite capturar y restaurar el estado interno de un objeto sin violar su encapsulación. dando la posibilidad de deshacer (undo) o rehacer (redo) cambios hecho al objeto
 
