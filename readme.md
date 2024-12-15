@@ -62,6 +62,8 @@ Actualmente, el repositorio está organizado en las siguientes carpetas:
 
 9. **State**  [`Comportamiento/State`](./Comportamiento/State/State.md)
 
+10. **Visitor**  [`Comportamiento/Visitor`](./Comportamiento/Visitor/Visitor.md)
+
 
 **Ejecutar codigo**
  ```bash
